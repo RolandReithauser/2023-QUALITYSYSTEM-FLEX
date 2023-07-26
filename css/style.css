@@ -257,7 +257,7 @@ span {
     display: flex;
     justify-content: center;
     align-items: center;
-    flex-wrap: wrap;
+    flex-direction: column;
     gap: 2rem;
     background: var(--bg-color);
 }
@@ -321,7 +321,7 @@ span {
 }
 
 .portfolio-content h2 {
-    text-align: left;
+    text-align: center;
     line-height: 1.2;
 }
 
