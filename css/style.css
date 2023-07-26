@@ -320,7 +320,7 @@ span {
     box-shadow: 0 2rem 2rem var(--main-color);
 }
 
-.portfolio-content h2 {
+.portfolio-content .heading {
     text-align: center;
     line-height: 1.2;
 }
